@@ -1,6 +1,0 @@
-opencv-python
-numpy
-matplotlib
-
-
-# pip install -r requirements.txt
