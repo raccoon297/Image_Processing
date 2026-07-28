@@ -1,0 +1,18 @@
+{
+  "model_name": "MobileNetV3 Small",
+  "best_epoch": 13,
+  "best_val_loss": 0.32840165654395487,
+  "best_val_accuracy": 86.11666666666666,
+  "mean_val_snr_accuracy": 86.11166917214784,
+  "val_snr_accuracy": {
+    "10": 85.89853826311264,
+    "12": 86.93181818181819,
+    "14": 86.18090452261306,
+    "16": 85.77302631578948,
+    "18": 85.77405857740585
+  },
+  "snr_evaluation_scope": "validation_set",
+  "num_train_samples": 24000,
+  "num_val_samples": 6000,
+  "snr_threshold": 10
+}

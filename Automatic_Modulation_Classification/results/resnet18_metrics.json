@@ -1,0 +1,18 @@
+{
+  "model_name": "ResNet-18",
+  "best_epoch": 6,
+  "best_val_loss": 0.25075505975079027,
+  "best_val_accuracy": 90.53333333333333,
+  "mean_val_snr_accuracy": 90.53102357177093,
+  "val_snr_accuracy": {
+    "10": 90.19776440240757,
+    "12": 90.09740259740259,
+    "14": 90.53601340033501,
+    "16": 91.44736842105263,
+    "18": 90.3765690376569
+  },
+  "snr_evaluation_scope": "validation_set",
+  "num_train_samples": 24000,
+  "num_val_samples": 6000,
+  "snr_threshold": 10
+}
