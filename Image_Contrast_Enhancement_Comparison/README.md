@@ -30,8 +30,8 @@
 
 ## 결과 이미지
 
-![image](Image_Contrast_Enhancement_Comparison/images/Figure_1.png)
-![image](Image_Contrast_Enhancement_Comparison/images/Figure_2.png)
+![image](images/Figure_1.png)
+![image](images/Figure_2.png)
 
 ## 구현 내용
 
