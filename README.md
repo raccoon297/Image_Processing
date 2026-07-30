@@ -8,7 +8,7 @@
 
 | Project                                                                          | Description                                                                             | Main Technologies                 |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------- |
-| [Image Contrast Enhancement Comparison](./Image_Contrast_Enhancement_Comparison) | HDR, Histogram Equalization, CLAHE 및 컬러 영상 확장 기법의 결과를 비교한 프로젝트다.                        | Python, Image Processing          |
+| [Image Contrast Enhancement Comparison](./Image_Contrast_Enhancement_Comparison) | HDR, Histogram Equalization, CLAHE 및 컬러 영상 확장 기법의 결과를 비교한 프로젝트다.                        | Python, OpenCV, Image Processing          |
 | [Automatic Modulation Classification](./Automatic_Modulation_Classification)     | RadioML I/Q 신호를 성상도 이미지로 변환하고 MobileNetV3 Small과 ResNet-18의 변조 분류 성능과 연산 효율을 비교한 프로젝트다. | Python, PyTorch, Deep Learning    |
 | [Hand Gun Fruit Shooter](./fruit_shooting)                                       | MediaPipe 기반 손동작 인식과 웹캠 영상을 이용하여 과일을 조준하고 발사하는 게임을 구현한 프로젝트다.                           | Python, OpenCV, MediaPipe, Pygame |
 
