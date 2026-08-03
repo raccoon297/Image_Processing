@@ -37,7 +37,7 @@ MobileNetV3 Small과 ResNet-18의 **정확도–연산 비용 trade-off**를 비
 
 ---
 
-## Visual Projects
+## Project Showcase
 
 <table>
   <tr>
