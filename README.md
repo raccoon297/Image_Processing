@@ -11,9 +11,9 @@
 
 ---
 
-## Featured Project — Edge-Efficient Modulation Classification
+## Featured Project
 
-### [Automatic Modulation Classification](./Automatic_Modulation_Classification)
+### [Lightweight Automatic Modulation Classification](./Automatic_Modulation_Classification)
 
 RadioML I/Q 신호를 `32 × 32` 성상도 이미지로 변환하고,  
 MobileNetV3 Small과 ResNet-18의 **정확도–연산 비용 trade-off**를 비교하였다.
@@ -41,25 +41,25 @@ MobileNetV3 Small과 ResNet-18의 **정확도–연산 비용 trade-off**를 비
 
 <table>
   <tr>
+     <td width="50%" valign="top">
+      <h3 align="center"><a href="./Image_Contrast_Enhancement_Comparison">Contrast Enhancement</a></h3>
+      <a href="./Image_Contrast_Enhancement_Comparison">
+        <img src="Image_Contrast_Enhancement_Comparison/images/Figure_2.png" width="100%" alt="Image contrast enhancement comparison">
+      </a>
+      <p>
+        Pseudo-HDR, Exposure Fusion, Histogram Equalization과 CLAHE의 밝기·대비 개선 특성을 이미지와 히스토그램으로 비교한 프로젝트
+      </p>
+      <p><code>OpenCV</code> <code>NumPy</code> <code>Image Processing</code></p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="./fruit_shooting">Hand Gun Fruit Shooter</a></h3>
       <a href="./fruit_shooting">
         <img src="fruit_shooting/results/fruit_shooting_gameplay_demo.gif" width="100%" alt="MediaPipe hand gesture fruit shooting game">
       </a>
       <p>
-        MediaPipe의 21개 손 랜드마크로 총 모양, 조준점과 발사 동작을 인식하고 Pygame 슈팅 게임을 제어합니다.
+        MediaPipe의 21개 손 랜드마크로 총 모양, 조준점, 발사 동작을 인식하고 제어하는 Pygame 기반 슈팅 게임 프로젝트
       </p>
       <p><code>MediaPipe</code> <code>OpenCV</code> <code>Pygame</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="./Image_Contrast_Enhancement_Comparison">Contrast Enhancement</a></h3>
-      <a href="./Image_Contrast_Enhancement_Comparison">
-        <img src="Image_Contrast_Enhancement_Comparison/images/Figure_1.png" width="100%" alt="Image contrast enhancement comparison">
-      </a>
-      <p>
-        Pseudo-HDR, Exposure Fusion, Histogram Equalization과 CLAHE의 밝기·대비 개선 특성을 이미지와 히스토그램으로 비교합니다.
-      </p>
-      <p><code>OpenCV</code> <code>NumPy</code> <code>Image Processing</code></p>
     </td>
   </tr>
 </table>
