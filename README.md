@@ -3,11 +3,6 @@
 
 # Image Processing Projects
 
-### From classical image enhancement to edge-efficient deep learning and real-time interaction
-
-영상과 무선 신호를 시각적 표현으로 변환하고,  
-**분석·분류·실시간 인터랙션**으로 확장한 세 개의 프로젝트를 정리한 저장소입니다.
-
 영상 신호 처리를 학습하며 수행한 세 개의 프로젝트를 정리한 저장소다.
 
 전통적인 영상 대비 향상 기법, 딥러닝 기반 무선 신호 분류 등 서로 다른 형태의 영상 신호 처리 문제를 다룬다.
